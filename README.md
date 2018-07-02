@@ -1,4 +1,4 @@
-# nba-visual
+# VisualNBA
 Data visualization for NBA stats
 
 
